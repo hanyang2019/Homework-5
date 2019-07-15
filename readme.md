@@ -2,6 +2,7 @@
 ## __Results__
 * Buble Plot of Sharing Data
 ![Buble Plot of Sharing Data](https://github.com/hanyang2019/Homework-5/blob/master/Pyber/pieber_buble_chart.png?raw=true)
+
 * Total Fares by City Type
 ![Total Fares by City Type](https://github.com/hanyang2019/Homework-5/blob/master/Pyber/total_fare_city_type.png?raw=true)
 * Total Rides by City Type
