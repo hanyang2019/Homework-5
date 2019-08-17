@@ -3,10 +3,13 @@
 * Buble Plot of Sharing Data
 ![Buble Plot of Sharing Data](https://github.com/hanyang2019/Homework-5/blob/master/Pyber/pieber_buble_chart.png?raw=true)
 * Total Fares by City Type
+
 ![Total Fares by City Type](https://github.com/hanyang2019/Homework-5/blob/master/Pyber/total_fare_city_type.png?raw=true)
 * Total Rides by City Type
+
 ![Total Rides by City Type](https://github.com/hanyang2019/Homework-5/blob/master/Pyber/total_rides_city_type.png?raw=true)
 * Total Drivers by City Type
+
 ![Total Drivers by City Type](https://github.com/hanyang2019/Homework-5/blob/master/Pyber/total_drivers_city_type.png?raw=true)
 ## __Findings__
 1.	The prevalence of Pyber in a city correlates with its extent of urbanization. People in urban cities are more likely to take Pyber rides than those in suburban and rural cities. 
